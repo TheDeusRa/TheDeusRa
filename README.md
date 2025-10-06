@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rae — aka TheDeusRa
 
-<!--
-**TheDeusRa/TheDeusRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **OpenCore & Hackintosh Enthusiast**  
+🧩 **Bitcoin Puzzle Solver**  
+🎨 **Graphic Designer (Photoshop)**  
+🎮 **Minecraft Player & Builder**
 
-Here are some ideas to get you started:
+### 🚀 Projects & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Hackintosh:** custom EFI configurations, ACPI patching, and OpenCore tuning  
+- 🧠 **Bitcoin puzzles:** cryptographic problem solving & key-space exploration  
+- 🎨 **Design:** Wallpapers, UI mockups, Logos and Business Indentity
+- 🎮 **Gaming:** exploring Minecraft
+
+### 📊 GitHub Stats
+
+![TheDeusRa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeusRa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeusRa&layout=compact&theme=tokyonight)
